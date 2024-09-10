@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @leahpanz
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning data visualization and pygame projects
-- 💞️ I’m looking to collaborate on any coding project regarding data analysis!
+- 🌱 I’m currently engaging with machine learning and pygame projects
 - 📫 Reach out to me at: panzarellaleah@gmail.com
   
 <!---
