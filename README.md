@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leahpanz
-- 🌱 I’m currently engaging with machine learning and pygame projects
+- 🌱 I’m currently working on data science and machine learning projects
 - 📫 Reach out to me at: panzarellaleah@gmail.com
   
 <!---
