@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leahpanz
-- 🌱 I’m currently working on data science and machine learning projects
-- 📫 Reach out to me at: panzarellaleah@gmail.com
+- 🌱 I’m currently working on data analytics and machine learning projects
   
 <!---
 leahpanz/leahpanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
